@@ -241,7 +241,7 @@ main p{
     text-align: center;
     padding: 10px;
     
-    background-image: url("/images/IMG_0673.jpg");
+    background-image: url("images/IMG_0673.jpg");
     background-size: cover;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
